@@ -1,0 +1,9 @@
+Definition of System Integration 
+
+Yasar, K., & Ehrens, T. (2022). integration. Customer Experience. https://www.techtarget.com/searchcustomerexperience/definition/integration
+
+Integration is similar to assembling smaller fragments of information, initially stored in separate locations or subsystems, and making them function together as a single, cohesive unit. It is analogous to solving a jigsaw puzzle, where disparate pieces collectively form a complete picture.
+
+When it comes to the realm of Information Technology (IT), integration takes on a more specific role. It Includes affirming that different parts of a computer system operate harmoniously, allowing their data to be shared without difficulty as needed. It mirrors the idea of enabling smooth communication between computer system elements.
+
+Achieving integration commonly necessitates organizations creating custom setups of applications. These setups act as the bridge connecting new and existing hardware, software, and other critical components. In essence, they function as the organizers for the diverse "tools" within an IT toolbox, ensuring they work together cohesively.
